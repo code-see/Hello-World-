@@ -1,0 +1,66 @@
+#a1 {
+  
+}
+
+#a2 {
+ float: right;
+}
+
+#s1 {
+    color: blue;
+}
+
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+
+
+
+
+
+
+
+
+
+        /* unvisited link */
+a:link {
+  color: blue;
+}
+
+/* visited link */
+a:visited {
+  color: blue;
+}
+
+/* mouse over link */
+a:hover {
+  color: lightblue;
+  text-align:center;
+  
+}
+
+/* selected link */
+a:active {
+  color: purple;
+}
+
+
+
+.s1 {
+  color: #4ccbe0;
+}
+
+
+
+
+
+
+#more {display: none;}
